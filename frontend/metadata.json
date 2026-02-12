@@ -1,0 +1,5 @@
+{
+  "name": "Campus Suggestion Box",
+  "description": "A clean and modern campus suggestion portal for students to submit feedback and for administrators to manage campus improvements. Features a simple student form and an admin dashboard for suggestion tracking.",
+  "requestFramePermissions": []
+}
